@@ -1,0 +1,16 @@
+.hero{
+    background: url("asset/img/ABO.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 30%;
+    padding-bottom: 30%;
+    color: rgb(227, 175, 193);
+    font-weight: bold;
+}
+
+nav {
+    background-color: rgb(242, 172, 180);
+}
+
+.project{
+    background-color: rgb(242, 172, 180);
+}
